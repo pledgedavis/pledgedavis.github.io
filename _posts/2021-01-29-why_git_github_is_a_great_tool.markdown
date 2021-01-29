@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Git/GitHub is a great tool"
-date:       2021-01-29 20:59:04 +0000
+date:       2021-01-29 15:59:04 -0500
 permalink:  why_git_github_is_a_great_tool
 ---
 
